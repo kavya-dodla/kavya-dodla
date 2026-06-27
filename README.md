@@ -197,11 +197,6 @@ Implemented digital logic circuits and hardware modules using Verilog HDL and si
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-dodla&layout=compact&theme=github_dark)
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kavya-dodla&theme=algolia&margin-w=10)
 
 ---
 
